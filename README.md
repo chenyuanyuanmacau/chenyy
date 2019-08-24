@@ -7,3 +7,5 @@ LOL
 
 Really happy to create my own repository with the help of github guides.
 Wish to do well in my future learning!
+
+It is interesting to discover more on the website.
